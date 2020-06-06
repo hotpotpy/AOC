@@ -58,7 +58,7 @@ for string2 in lines:
     # If rule 2 not satisfied, go to next line
     # Rule 1 doesn't need to be checked        
     if rule2 == False:
-        continue
+        continue`
     # Check rule 1 using dictionary
     dic = {}
     prev_prev_pair = None
